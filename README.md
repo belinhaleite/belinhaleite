@@ -1,0 +1,6 @@
+- # Sobre mim
+- 👋 Hi, I’m @belinhaleite
+- 👍 meu email de contato é isabela.freitas.leite@escola.pr.gov.br
+- 👀 eu estou interessada em aprender a programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagens de JavaScript e Scratch
+- 
